@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emmanuel Umenwa
 - 👀 I’m interested in becoming a Devops Professional
-- 🌱 I’m currently praticing on how to deploy a devops tooling website.
+- 🌱 I’m currently praticing on how to implement a load balancer solution with Apache
 - 💞️ I’m looking to collaborate on any start up project
 - 📫 I can be reached via my email: oeumenwa@yahoo.com
 
