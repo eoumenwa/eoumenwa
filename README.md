@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emmanuel Umenwa
 - 👀 I’m interested in becoming a Devops Professional
-- 🌱 I’m currently praticing on how to implement a Tooling Website deployment automation with Continuous Integration. Introduction to Jenkins
+- 🌱 I’m currently praticing how to implement a Load Balancer Solution With Nginx and SSL/TLS
 - 💞️ I’m looking to collaborate on any start up project
 - 📫 I can be reached via my email: oeumenwa@yahoo.com
 
