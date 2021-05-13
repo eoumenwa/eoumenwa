@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emmanuel Umenwa
 - 👀 I’m interested in becoming a Devops Professional
-- 🌱 I’m currently doing revisions on shell scripting/ansible with Jeff Geerling
+- 🌱 I’m currently doing revisions on shell scripting/ansible with Jeff Geerling/onboarding users to local host - cloudless
 - 💞️ I’m looking to collaborate on any start up project
 - 📫 I can be reached via my email: oeumenwa@yahoo.com
 
