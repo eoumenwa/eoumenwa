@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emmanuel Umenwa
 - 👀 I’m interested in becoming a Devops Professional
-- 🌱 I’m currently working on Ansible Dynamic Assignments (Include)
+- 🌱 I’m currently working Continuous Integration with Jenkins | Ansible | Artifactory | SonarQube | PHP
 - 💞️ I’m looking to collaborate on any start up project
 - 📫 I can be reached via my email: oeumenwa@yahoo.com
 
