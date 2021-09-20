@@ -1,0 +1,12 @@
+Connecting to Basstion host on VS Code using SSH Agent
+
+ps aus|grep ssh
+kill PID (if needed)
+eval 'ssh-agent' or eval $(ssh-agent) or eval 'ssh-agent -s' eval 'ssh-agent -c'
+ssh-add -k alternate.pem (to add identity file)
+ssh-add -l (to add keys to key chain)
+ssh -A ubuntu@pubID (connects to ansible master)
+ssh-add -l (while in ansible master to confirm agent still runs and keys active)
+ssh ubuntu@privIp of node/slave
+else run eval 'ssh-agent' again
+Platforms: desktop, laptop, oracle vb, aws cloud. challenges may have been due to having to instances tested on different system causing processes to be active on both
