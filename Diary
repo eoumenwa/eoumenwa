@@ -1,4 +1,4 @@
-Connecting to Basstion host on VS Code using SSH Agent
+Connecting to Bastion host on VS Code using SSH Agent
 
 ps aus|grep ssh
 kill PID (if needed)
