@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Emmanuel Umenwa
-- 👀 I’m interested in becoming a Cloud/Devops Engineer
-- 🌱 I’m currently working Continuous Integration with Jenkins | Ansible | Artifactory | SonarQube | PHP
-- 💞️ I’m looking to collaborate on any start up project
+- 👀 I’m a Cloud/DevOps Engineer
+- 💞️ I’m looking to collaborate on any start-up project
 - 📫 I can be reached via my email: oeumenwa@yahoo.com
 
 <!---
